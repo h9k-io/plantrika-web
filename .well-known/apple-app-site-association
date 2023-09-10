@@ -1,0 +1,16 @@
+{
+    "applinks": {
+        "details": [{
+            "appIDs": ["65FXBNY676.com.eanderson.Plantrika"],
+            "components": [{
+                "/": "/stock/*",
+                "comment": "Matches any URL whose path starts with /stock/"
+            }]
+        }]
+    },
+    "appclips": {
+        "apps": [
+            "65FXBNY676.com.eanderson.Plantrika.Clip"
+        ]
+    }
+}
