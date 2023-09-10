@@ -3,8 +3,8 @@
         "details": [{
             "appIDs": ["65FXBNY676.com.eanderson.Plantrika"],
             "components": [{
-                "/": "/stock/*",
-                "comment": "Matches any URL whose path starts with /stock/"
+                "/": "/plant/*",
+                "comment": "Matches any URL whose path starts with /plant/"
             }]
         }]
     },
